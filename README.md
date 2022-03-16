@@ -1,5 +1,2 @@
-## Changelog
-
-1. Created a sample file
-2. some change
-3. trying git rebase
+1. hello
+2. hi
